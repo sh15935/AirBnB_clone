@@ -1,2 +1,2 @@
 0x00. AirBnB clone - The console
-https://github.com/sh15935/AirBnB_clone/assets/125465623/16c3fb3b-46ac-480a-83ca-a139a0c9e681
+<img src="https://github.com/sh15935/AirBnB_clone/assets/125465623/16c3fb3b-46ac-480a-83ca-a139a0c9e681" >
