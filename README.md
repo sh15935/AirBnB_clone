@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AirBnB_clone
 <img src="hbnb.png" width=100%>
 
@@ -66,3 +67,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 ## License
 No special licenses needed
 
+=======
+0x00. AirBnB clone - The console
+<img src="https://github.com/sh15935/AirBnB_clone/assets/125465623/16c3fb3b-46ac-480a-83ca-a139a0c9e681" >
+>>>>>>> 19c390c2e2a8a66345c04c8ad972ec49dc74eacb
