@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirBnB_clone
 <img src="hbnb.png" width=100%>
 
