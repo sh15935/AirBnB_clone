@@ -1,4 +1,6 @@
-ts for the BaseModel
+#!/usr/bin/python3
+"""
+Tests for the BaseModel
 """
 
 
