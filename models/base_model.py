@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """BaseModel module"""
 import uuid
 from datetime import datetime
