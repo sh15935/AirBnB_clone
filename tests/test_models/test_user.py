@@ -1,4 +1,6 @@
-ts for the User Model
+#!/usr/bin/python3
+"""
+Tests for the User Model
 """
 
 
