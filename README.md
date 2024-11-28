@@ -15,7 +15,7 @@ A `The Room SE` group project aimed at elucidating SE students on the nitty grit
 
 ## Usage
 To use this application:
- - Clone this repo ``git clone https://github.com/StephenMakenziWaweru/AirBnB_clone``
+ - Clone this repo ``git clone https://github.com/sh15935/AirBnB_clone``
  - cd into it and make console.py executable ``cd AirBnB_clone; chmod u+x console.py``
  - Check below commands for more help
 
@@ -32,7 +32,7 @@ To use this application:
 ### Example usage
 Launching console.py, checking available commands, and creating a User
 ```
-mack@mack-pc:~/ALX/Python/AirBnB_clone$ ./console.py 
+sh@mack-pc:~/ALX/Python/AirBnB_clone$ ./console.py 
 (hbnb) help
 
 Documented commands (type help <topic>):
